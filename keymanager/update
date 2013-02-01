@@ -1,0 +1,5 @@
+echo "Updating KeyManager source." 
+echo "Grabbing from ~/Documents/Arduino/libtests/"
+cd ~/Repositories/arduino_libs/keymanager/
+cp ~/Documents/Arduino/libtests/* .
+echo "Update complete."
